@@ -1,0 +1,25 @@
+{
+  "branches": [
+    {"id": "regeneration", "name": "REGENERATION", "stat": "regen",
+     "levels": [
+       {"biomass": 25, "energy": 20, "adaptation": 10, "minutes": 120,
+        "text": "Tissue repair accelerating. Wounds begin closing faster."},
+       {"biomass": 50, "energy": 20, "adaptation": 20, "minutes": 120,
+        "text": "Repair clusters multiply in the damaged tissue. Heavy wounds begin to knit."}
+     ]},
+    {"id": "camouflage", "name": "CAMOUFLAGE", "stat": "camo",
+     "levels": [
+       {"biomass": 25, "energy": 20, "adaptation": 10, "minutes": 120,
+        "text": "Surface proteins rewritten. The immune system reads S.O.R.A. less clearly."},
+       {"biomass": 50, "energy": 20, "adaptation": 20, "minutes": 120,
+        "text": "Membrane mimicry deepens. Anastasia's antibodies hesitate before they strike."}
+     ]},
+    {"id": "neural_interface", "name": "NEURAL INTERFACE", "stat": "neural_interface",
+     "levels": [
+       {"biomass": 25, "energy": 20, "adaptation": 10, "minutes": 120,
+        "text": "Filaments reach toward the temporal cortex. Signals begin to carry meaning."},
+       {"biomass": 50, "energy": 20, "adaptation": 20, "minutes": 120,
+        "text": "Synapses lock onto S.O.R.A.'s pulse. Memories surface with clearer translation."}
+     ]}
+  ]
+}

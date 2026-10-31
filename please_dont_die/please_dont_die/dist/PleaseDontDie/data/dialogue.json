@@ -1,0 +1,48 @@
+{
+  "lines": {
+    "heal.organ": ["REPAIR PROTOCOL: ORGAN. New tissue knits beneath the scar."],
+    "heal.neural": ["REPAIR PROTOCOL: NEURAL. Synaptic gaps close, one by one."],
+    "heal.oxygen": ["REPAIR PROTOCOL: OXYGEN. Capillaries reopen in the lower lobes."],
+    "absorb.nutrients": ["Nutrient solution absorbed. No damage to host."],
+    "absorb.tissue": ["S.O.R.A. draws healthy tissue into itself. Anastasia's heart rate stutters."],
+    "stabilize.immune": ["Immune marker suppressed. The attack slows, but does not stop."],
+    "stabilize.neural": ["Neural activity stabilized. Her breathing evens out for a moment."],
+    "stabilize.organ": ["Organ deterioration slowed. A dull pulse, steadier than before."],
+    "communicate.overload": ["Neural overload. Host vitality dropping."],
+    "communicate.none": [
+      "Neural activity detected. No accessible fragment.",
+      "Stabilize neural activity or evolve the NEURAL INTERFACE."
+    ],
+    "decision.open": [
+      "FINAL DECISION REQUIRED. Sixty-six hours have elapsed. Six hours remain.",
+      "The clock is held until you choose. S.O.R.A. has one last act of its own.",
+      "Type DECIDE PROTECT, DECIDE CLAIM or DECIDE RELEASE."
+    ],
+    "decision.protect.desc": ["  PROTECT - Pour all remaining biomass into Anastasia's organs. Protects the host."],
+    "decision.claim.desc": ["  CLAIM   - Commit S.O.R.A. fully to the fight and take the body as its own."],
+    "decision.release.desc": ["  RELEASE - Withdraw S.O.R.A.'s support and let the two bodies decide what they are."],
+    "decide.protect": ["S.O.R.A. gives its last biomass to the heart. 'Keep beating.'"],
+    "decide.claim": ["S.O.R.A. stops asking. The body is no longer a guest."],
+    "decide.release": ["S.O.R.A. lets go of the wheel. For the first time, the body belongs to no one."],
+    "ending.RECOVERY": [
+      "Anastasia's eyelids move. Her first word is a name, and it is not S.O.R.A.'s.",
+      "After a long silence she says: 'Thank you.' S.O.R.A. does not know who she is thanking."
+    ],
+    "ending.SYMBIOSIS": [
+      "The two organisms settle into a fragile balance.",
+      "Anastasia remains in a coma, breathing on borrowed lungs. Two minds keep watch over one body."
+    ],
+    "ending.SACRIFICE": [
+      "S.O.R.A. dissolves into the bloodstream, carrying the immune attack with it.",
+      "Anastasia's monitor steadies. Whether that was love or the last thing it could do, nothing records."
+    ],
+    "ending.TAKEOVER": [
+      "Anastasia's heart stops, or it may as well have. S.O.R.A. does not stop.",
+      "Its tissue spreads through a body that is no longer hers. Under the sedation, something answers to its name."
+    ],
+    "ending.TERMINATION": [
+      "VITAL SIGNS: FLATLINE. S.O.R.A. INTEGRITY: 0.",
+      "Both organisms stop. On the ICU monitor, two lines fall into one."
+    ]
+  }
+}

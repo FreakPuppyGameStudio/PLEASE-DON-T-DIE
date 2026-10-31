@@ -1,0 +1,10 @@
+{
+  "memories": [
+    {"id": "mom", "ru": "...мама...", "en": "...Mom...", "confidence": 42, "requires": ""},
+    {"id": "dont_go", "ru": "...не уходи...", "en": "...don't go...", "confidence": 58, "requires": "neural>=35"},
+    {"id": "asya", "ru": "...Ася, посмотри на меня...", "en": "...Asya, look at me...", "confidence": 51, "requires": "neural>=50 and memories>=1"},
+    {"id": "snow", "ru": "...снег на крыше...", "en": "...snow on the roof...", "confidence": 63, "requires": "neural_interface>=1 and memories>=1"},
+    {"id": "dark", "ru": "...я боюсь темноты...", "en": "...I'm afraid of the dark...", "confidence": 47, "requires": "neural>=60 and memories>=2"},
+    {"id": "dima", "ru": "...Дима, прости...", "en": "...Dima, forgive me...", "confidence": 39, "requires": "neural_interface>=2 and memories>=2"}
+  ]
+}
